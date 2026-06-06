@@ -1,4 +1,4 @@
-# 🗄️ SQL: Company Employee Performance & Salary Analysis (ScienceQtech)
+# 🗄️ SQL: Company Employee Performance Analysis (ScienceQtech)
 
 ## 📌 Project Overview
 * **Goal:** To clean up a company's employee database and write queries to check salaries, employee ratings, and who reports to whom.
@@ -19,10 +19,10 @@
 ---
 
 ## 💡 Key Insights (What I Found)
-* **Insight 1 (Company Hierarchy):** Used a self-join query to map out the entire management chain and count exactly how many employees report to each manager.
+* **Insight 1 (Company Hierarchy):** Used a self-join query to map out employee IDs to manager IDs to identify active team hierarchies and count exactly how many employees report to each manager.
 * **Insight 2 (Salary Ranges):** Found the minimum `MIN(SALARY)` and maximum `MAX(SALARY)` salaries for every single job role in the company to see how pay is distributed.
 * **Insight 3 (Top Performers):** Used a window function `MAX(EMP_RATING) OVER(PARTITION BY DEPT)` to find the highest employee rating in each department.
-* **Insight 4 (Experience Ranking):** Ranked all employees from highest to lowest based on their total years of experience using `DENSE_RANK` OVER(ORDER BY EXP DESC)` function.
+* **Insight 4 (Experience Ranking):** Ranked all employees from highest to lowest based on their total years of experience using `DENSE_RANK() OVER(ORDER BY EXP DESC)` function.
 
 ---
 
