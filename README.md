@@ -29,10 +29,10 @@
 ## 📐 Database Structure (ER Diagram)
 Below is the visual layout showing how the employee, project, and team tables connect to each other:
 
-![Database ER Diagram](./visuals/eer_diagram.png)
+![Database ER Diagram](https://github.com/paladitya2077-datawizard/sql-employee-performance-mapping-project/blob/a3be6a4f268341f8da57720fc99d92c27c40f1d7/visuals/Screenshot%202026-06-05%20181834.png)
 
 ---
 
 ## 🚀 Explore My Work (Quick Links)
-* 💻 **[View Code Script](./scripts/Aditya%20Pal%20SQL%20ScienceQtech%20Project.sql):** See my clean SQL queries, joins, and functions.
-* 🖼️ **[Browse Result Screenshots](./visuals/):** Look at screenshots of the final query output tables.
+* 💻 **[View Code Script](https://github.com/paladitya2077-datawizard/sql-employee-performance-mapping-project/blob/a3be6a4f268341f8da57720fc99d92c27c40f1d7/scripts/Aditya%20Pal%20SQL%20ScienceQtech%20Project.sql):** See my clean SQL queries, joins, and functions.
+* 🖼️ **[Browse Result Screenshots](https://github.com/paladitya2077-datawizard/sql-employee-performance-mapping-project/tree/a3be6a4f268341f8da57720fc99d92c27c40f1d7/visuals):** Look at screenshots of the final query output tables.
