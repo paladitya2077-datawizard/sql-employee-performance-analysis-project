@@ -35,4 +35,4 @@ Below is the visual layout showing how the employee, project, and team tables co
 
 ## 🚀 Explore My Work (Quick Links)
 * 💻 **[View Code Script](https://github.com/paladitya2077-datawizard/sql-employee-performance-mapping-project/blob/a3be6a4f268341f8da57720fc99d92c27c40f1d7/scripts/Aditya%20Pal%20SQL%20ScienceQtech%20Project.sql):** See my clean SQL queries, joins, and functions.
-* 🖼️ **[Browse Result Screenshots](https://github.com/paladitya2077...):** Look at screenshots of the final query output tables.
+* 🖼️ **[Browse Result Screenshots](https://github.com/paladitya2077-datawizard/sql-employee-performance-analysis-project/tree/e9155e3b17b5abb35c38d7652619ac4fac5dabcc/visuals):** Look at screenshots of the final query output tables.
